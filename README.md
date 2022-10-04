@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Mahmoud</h1>
-<h3 align="left"><code>echo</code> "Software Engineer"</h3>
+<h1 align="left">Hi 😎, I'm Mahmoud</h1>
+<h3 align="left">Software Engineer | Laravel Developer | Freelancer</h3>
 
 <ul dir="auto">
 <li>
