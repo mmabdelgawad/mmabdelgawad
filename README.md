@@ -2,10 +2,11 @@
 <h3 align="left">Software Engineer | Laravel Developer | Freelancer</h3>
 
 <ul dir="auto">
+<!--
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working at <a href="https://github.com/qawafel">Qawafel</a></p>
 </li>
-<!--
+
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Software Principles & Architecture</strong></p>
 </li>
