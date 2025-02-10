@@ -4,7 +4,7 @@
 <ul dir="auto">
 
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Currently I'm working as Software Enigneer at <a href="https://pargo.co.za/">Pargo</a>, previously at <a href="https://qawafel.sa/">Qawafel</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Currently I'm working as Software Enigneer at <a href="https://www.innoscripta.com/en">innoscripta</a>, previously at <a href="https://pargo.co.za/">Pargo</a></p>
 </li>
   
 <!--
